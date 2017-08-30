@@ -8,8 +8,7 @@ class Humano(){
         echo " " . $this->$nombre;
     }
 
-    $marta = new Humano;
-    $marta->hablar;
+   
 }
 
 ?>
